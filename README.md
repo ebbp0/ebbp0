@@ -1,4 +1,5 @@
 # Hey, I'm Elliot
 
 - He/him
-- I'm the Head of Platform Engineering at [Infogrid](https://infogrid.io)
+- I'm a Founding Engineer at **[22c.](https://22c.io)**
+- I'm also a Site Reliability Engineer at [Unlikely AI](https://unlikely.ai)
